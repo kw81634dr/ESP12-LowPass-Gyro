@@ -1,6 +1,6 @@
-# SimpleGyro
+# ESP12-LowPass-Gyro
 
-simple gyroscope with digital low pass filter
+simple gyroscope(MPU6050) with digital low pass filter
 
 ![Demo_gif](https://github.com/kw81634dr/SimpleGyro/blob/main/images/OLED_Demo.gif)
 
