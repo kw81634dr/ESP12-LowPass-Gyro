@@ -32,8 +32,8 @@ from left to right: Arrow, Bubble, Line
 
 ## Dependent libraries
 
-backup in `library_backup` directory
-`I2cdev`, `MPU6050`, `ThingPulse OLED SSD1306`
+all dependencies has been backup in **library_backup** directory.
+[`I2cdev`](https://github.com/jrowberg/i2cdevlib), [`ThingPulse OLED SSD1306`](https://github.com/ThingPulse/esp8266-oled-ssd1306)
 
 ## IIR Low pass filter
 
