@@ -51,6 +51,5 @@ which is also equivalent to
 
 ![Freq_response_fig](https://i.stack.imgur.com/fnQMX.png)
 
-
 ---
 Update: Sep.28, 2018
