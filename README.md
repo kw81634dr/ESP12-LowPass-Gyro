@@ -2,13 +2,13 @@
 
 simple gyroscope with digital low pass filter
 
-![Demo_gif]()
+![Demo_gif](https://github.com/kw81634dr/SimpleGyro/blob/main/images/OLED_Demo.gif)
 
 ## Display Mode
 
-+ ![Arrow_img]()
-+ ![Bubble_img]()
-+ ![Line_img]()
++ ![Arrow_img](https://github.com/kw81634dr/SimpleGyro/blob/main/images/Arrow.jpg)
++ ![Bubble_img](https://github.com/kw81634dr/SimpleGyro/blob/main/images/bubble_level.jpg)
++ ![Line_img](https://github.com/kw81634dr/SimpleGyro/blob/main/images/line.jpg)
 
 ## Hardware
 
