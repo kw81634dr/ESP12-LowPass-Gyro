@@ -37,11 +37,11 @@ backup in `library_backup` directory
 
 ## IIR Low pass filter
 
-[Source: *Low pass filter algorithm origin*](https://dsp.stackexchange.com/questions/41854/low-pass-filter-algorithm-origin)
-
 ```c
 y += beta * (x - y);
 ```
+
+[Source: *Low pass filter algorithm origin*](https://dsp.stackexchange.com/questions/41854/low-pass-filter-algorithm-origin)
 
 >It can be converted to an algebraic relation between the samples of the filter output sequence *𝑦[𝑛]* and the filter input *𝑥[𝑛]* as:
 `𝑦[𝑛+1]−(1−b)𝑦[𝑛]=b𝑥[𝑛]`which is also equivalent to`𝑦[𝑛]−(1−b)𝑦[𝑛−1]=b𝑥[𝑛−1]`
