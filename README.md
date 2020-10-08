@@ -6,7 +6,7 @@ simple gyroscope with digital low pass filter
 
 ## Display Mode
 
-![DIsplayMode_img]()
+![DIsplayMode_img](https://github.com/kw81634dr/SimpleGyro/blob/main/images/DisplayMode.png)
 
 from left to right: Arrow, Bubble, Line
 
